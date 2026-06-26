@@ -86,3 +86,7 @@ Classes like `text-5xl md:text-7xl` apply different styles at different screen s
 2. Open it directly in any browser — no build step needed
 3. Tailwind loads from CDN, so an internet connection is required
 
+## 🌐 Live Demo
+
+👉 [View Portfolio](https://sunsarav.github.io/portfolio/)
+
