@@ -88,5 +88,5 @@ Classes like `text-5xl md:text-7xl` apply different styles at different screen s
 
 ## 🌐 Live Demo
 
-👉 [View Portfolio](https://sunsarav.github.io/portfolio/)
+👉 [View Portfolio](https://sunsarav.github.io/TailwindCSS-Workshop-MyPortfolio/)
 
